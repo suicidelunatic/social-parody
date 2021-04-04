@@ -1,0 +1,1 @@
+export type Reducer = (state: any, payload: { type: string, payload: any }) => any;
